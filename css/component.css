@@ -24,6 +24,7 @@ canvas {
 
 .scene-nav--prev {
 	left: 0;
+	right: auto;
 }
 
 .slide-wrapper {
